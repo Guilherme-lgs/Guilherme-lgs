@@ -77,12 +77,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guilherme-lgs/Guilherme-lgs/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-lgs&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-lgs/Guilherme-lgs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-lgs/Guilherme-lgs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilherme-lgs/Guilherme-lgs/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
