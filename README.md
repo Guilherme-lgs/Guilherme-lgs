@@ -77,10 +77,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Guilherme-lgs/Guilherme-lgs/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guilherme-lgs&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-lgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&order=1&custom_title=Guilherme%20Stats:" height="233" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-lgs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-lgs&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
