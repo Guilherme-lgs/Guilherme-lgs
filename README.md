@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm  from Mirangaba-ba<br><br>👨‍🎓 Estudante de Informática (18 anos)<br>Cursando no IFBA - Campus Jacobina, com paixão por tecnologia e aprendizado contínuo.<br>👨‍🎓Cursando Programadores Do Amanhã<br><br>🌍 Mirangaba, Bahia <br>Orgulhoso das raízes e motivado a contribuir com a comunidade através da tecnologia.<br><br>💻 Futuro Desenvolvedor Fullstack <br>Sonhando alto para criar soluções completas, do front-end ao back-end</p>
+<p align="left">I'm  from Mirangaba-ba<br><br>👨‍🎓 Computer student (18 years)<br>Studying at IFBA - Jacobina Campus, with a passion for technology and continuous learning.<br>👨‍🎓 Currency Programmers of Tomorrow<br><br>🌍 Mirangaba, Bahia<br>Proud of the roots and motivated to contribute to the community through technology.<br><br>💻 Future Fullstack Developer<br>Dreaming loud to create complete solutions, from front end to back-end</p>
 
 ###
 
