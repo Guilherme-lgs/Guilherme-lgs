@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm  from Mirangaba-ba<br><br>👨‍🎓 Computer student (19 years)<br>Studying at IFBA - Jacobina Campus, with a passion for technology and continuous learning.<br>👨‍🎓 Currency Programmers of Tomorrow<br><br>🌍 Mirangaba, Bahia<br>Proud of the roots and motivated to contribute to the community through technology.<br><br>💻 Future Fullstack Developer<br>Dreaming loud to create complete solutions, from front end to back-end</p>
+<p align="left">I'm  from Mirangaba-ba<br><br>👨‍🎓 Computer student (20 years)<br>Studying at IFBA - Jacobina Campus, with a passion for technology and continuous learning.<br>👨‍🎓 Currency Programmers of Tomorrow<br><br>🌍 Mirangaba, Bahia<br>Proud of the roots and motivated to contribute to the community through technology.<br><br>💻 Future Fullstack Developer<br>Dreaming loud to create complete solutions, from front end to back-end</p>
 
 ###
 
